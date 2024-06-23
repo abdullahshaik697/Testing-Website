@@ -25,3 +25,8 @@ h1{
         color: white;
         background-color: black;
 }
+.container li a:hover{
+    transition: 0.1s ease-in;
+    background-color: white;
+    color: black;
+}
